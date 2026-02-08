@@ -113,7 +113,6 @@ MazeSolver/
 ├── .venv/            # optional local virtual environment (do not commit)
 ├── src/
 │   ├── maze.py       # solver implementation (Node, Frontier, Maze)
-│   └── utils.py      # optional utilities (currently empty)
 ├── data/
 │   ├── maze1.txt
 │   ├── maze2.txt
