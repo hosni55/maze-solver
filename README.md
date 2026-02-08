@@ -124,7 +124,7 @@ MazeSolver/
 
 ## 🎨 Example Output
 
-Place example images in `assets/` and reference them in the README. Example images included here are static PNGs demonstrating BFS/DFS outputs.
+images included here are static PNGs demonstrating BFS/DFS outputs.
 
 ### Visual legend
 
