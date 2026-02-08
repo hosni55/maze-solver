@@ -122,12 +122,6 @@ MazeSolver/
     └── maze_dfs.png
 ```
 
-Notes:
-- Keep `.venv/` and other environment files out of version control (add them to `.gitignore`).
-- `utils.py` is a placeholder for helper functions.
-
----
-
 ## 🎨 Example Output
 
 Place example images in `assets/` and reference them in the README. Example images included here are static PNGs demonstrating BFS/DFS outputs.
